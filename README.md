@@ -3,7 +3,7 @@
 ##動作手順
 
 ```
-pip3 install flask 
+$pip3 install flask 
 
- python3 run.py 
+$python3 run.py 
 ```
